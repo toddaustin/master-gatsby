@@ -12,7 +12,7 @@ export default {
 			name: 'name',
 			title: 'Topping Name',
 			type: 'string',
-			description: 'What is the name of the topping?',
+			description: 'What is the name of this topping?',
 		},
 		{
 			name: 'vegetarian',

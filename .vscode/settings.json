@@ -1,0 +1,17 @@
+{
+    "workbench.colorCustomizations": {
+        "[Cobalt2]": {
+            "editor.background": "#111931",
+            "sideBar.background": "#0a1021",
+            "terminal.background": "#0a1021",
+            "breadcrumb.background": "#0a1021",
+            "sideBarSectionHeader.background": "#0a1021",
+            "panel.background": "#0a1021",
+            "tab.inactiveBackground": "#0a1021",
+            "editorLineNumber.foreground": "#645d7e"
+        },
+        "activityBar.background": "#46260D",
+        "titleBar.activeBackground": "#623513",
+        "titleBar.activeForeground": "#FEFBF9"
+    }
+}
